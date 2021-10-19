@@ -1,2 +1,1 @@
-# effective-train
-Following same.
+This is a starter template for [Learn Next.js](https://nextjs.org/learn).
